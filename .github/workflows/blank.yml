@@ -35,7 +35,3 @@ jobs:
           solution-path: Automationscript.sln
           # The chosen name of the artifact. E.g. MyPackageName.  Required for stages: All, Upload and Deploy.
           artifact-name: empowerhelloworld # optional
-          
-              run: |
-                echo Add other actions to build,
-                echo test, and deploy your project.
